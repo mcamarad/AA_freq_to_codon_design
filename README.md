@@ -1,7 +1,7 @@
 # AA_freq_to_codon_design
 A tool for converting your AA frequencies into codon design.
 
-##INSTRUCTIONS FOR USE:
+## INSTRUCTIONS FOR USE:
 1. Modify main.py with your favorite text editor (gedit, notebook, etc.) and at the end of the script change the paths:
 	- First path refers to codon map, file.
 	- Second path refers to aminoacid frequencies. The file should be in the same format as the 'AAFREQ.txt' provided.
