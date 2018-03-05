@@ -9,7 +9,7 @@ A tool for converting your AA frequencies into codon design.
 2. Install python 3.6 and Pandas package. You can do it by following the instructions at: https://www.anaconda.com/download/
 	- For installing pandas you can do in your terminal: 
 	> Conda install pandas
-	or
+or
 	> pip install pandas
 3. Run the script just by typing in your terminal:
 	> python main.py
